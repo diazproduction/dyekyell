@@ -11,7 +11,7 @@ Dÿkÿll, also spelled as Tügüll (or Dyekyell/Tueguel, respectively, in ASCII)
 There are many things I've been thinking about doing to give life to the Dÿkÿll language, not limited to:
 
 - [ ] **Dÿkÿll – English Dictionary.**
-- [ ] **Collection of Stories from the Dÿkkÿll people:** since there cannot be a language without its own culture and people, one of the projects will include a website with short stories about the *Dÿkkÿllioalle* or the people who speak Dÿkÿll.
+- [ ] **Collection of Stories from the Dÿkÿll people:** since there cannot be a language without its own culture and people, one of the projects will include a website with short stories about the *Dÿkÿllioalle* or the people who speak Dÿkÿll.
 - [ ] **Latin to Dÿkÿll script trasliterator tool.**
 - [ ] **Dÿkÿll learning tool.**
 
